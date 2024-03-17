@@ -1,1 +1,1 @@
-# NN-hyper-parameters-optimization-by-GA
+# NN hyper-parameters optimization by GA
